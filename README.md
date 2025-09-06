@@ -41,19 +41,28 @@ To get the flashcard app up and running on your machine, follow these simple ste
 1. **Clone the Repository**
    Start by cloning the project from GitHub to your local machine:
 
-   git clone [https://github.com/kumar-shaurya/Flashcards.git](https://github.com/kumar-shaurya/Flashcards.git)
-   cd Flashcards
+   ```git clone [https://github.com/kumar-shaurya/Flashcards.git](https://github.com/kumar-shaurya/Flashcards.git)```
    
-2. **Install Beeware**
+   ```cd Flashcards```
+   
+3. **Install Beeware**
    If you don't alredy have Beeware installed, you'll need to set it up. It is recommended to use a Python virtual environment.
 
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   pip install beeware
+   ```python3 -m venv venv```
    
-3. **Run the Project**
+   ```source venv/bin/activate```
+   # On Windows, use
+   ```venv\Scripts\activate```
+   
+   ```pip install beeware```
+   
+5. **Run the Project**
    Now you can use Beeware's command-line tool to run the app.
 
-   briefcase dev
+   ```briefcase dev```
    
    This command will build and run the app in a development environment, allowing you to see your app in action.
+
+6. **Screenshots**
+   
+

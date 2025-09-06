@@ -63,7 +63,9 @@ To get the flashcard app up and running on your machine, follow these simple ste
    
    This command will build and run the app in a development environment, allowing you to see your app in action.
 
-6. **Screenshots**
+   Or just download and install the app in releases
+
+7. **Screenshots**
 
    Main Screen(https://github.com/user-attachments/assets/7b95f07b-9468-47b0-a272-46ba1560a0b7)
    

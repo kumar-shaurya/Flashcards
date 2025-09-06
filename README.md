@@ -65,8 +65,11 @@ To get the flashcard app up and running on your machine, follow these simple ste
 
 6. **Screenshots**
    !Main Screen(https://github.com/user-attachments/assets/7b95f07b-9468-47b0-a272-46ba1560a0b7)
+   
    !Answer after flipping(https://github.com/user-attachments/assets/8feda987-c2de-4602-a549-d0a9b060ff88)
+   
    !Add cards(https://github.com/user-attachments/assets/9a67beb2-1325-4328-a4ff-81f028377f78)
+   
    !About(https://github.com/user-attachments/assets/d49adde1-420b-4b40-bfb6-e765f914746f)
 
 
